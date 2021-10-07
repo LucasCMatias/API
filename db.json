@@ -1,43 +1,43 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "name": "Lucas Matias",
+    "username": "Matias",
+    "email": "lucasc.ti@hotmail.com",
     "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
+      "street": "Rua Jaçana",
+      "suite": "N. 785",
+      "city": "Campinas",
+      "zipcode": "13054-130",
       "geo": {
         "lat": "-37.3159",
         "lng": "81.1496"
       }
     },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
+    "phone": "+55 19 994447726",
+    "website": "https://github.com/LucasCMatias/API",
     "company": {
-      "name": "Romaguera-Crona",
+      "name": "Sensedia",
       "catchPhrase": "Multi-layered client-server neural-net",
       "bs": "harness real-time e-markets"
     }
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "name": "Gabriel Henrique",
+    "username": "GHmatias",
+    "email": "Gabriel@hotmail.com",
     "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
+      "street": "R jaçana",
+      "suite": "N. 559",
+      "city": "Campinas",
+      "zipcode": "13054-130",
       "geo": {
         "lat": "-43.9509",
         "lng": "-34.4618"
       }
     },
-    "phone": "010-692-6593 x09125",
+    "phone": "+55 19 991179488",
     "website": "anastasia.net",
     "company": {
       "name": "Deckow-Crist",
@@ -47,23 +47,23 @@
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
+    "name": "Ines Veronica",
+    "username": "Ve ve",
+    "email": "veronica2011@hotmail.com",
     "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
+      "street": "Av Paulista",
+      "suite": "N. 963",
+      "city": "São Paulo",
       "zipcode": "59590-4157",
       "geo": {
         "lat": "-68.6102",
         "lng": "-47.0653"
       }
     },
-    "phone": "1-463-123-4447",
+    "phone": "+55 19 98746-7372",
     "website": "ramiro.info",
     "company": {
-      "name": "Romaguera-Jacobson",
+      "name": "Veronica",
       "catchPhrase": "Face to face bifurcated interface",
       "bs": "e-enable strategic applications"
     }
