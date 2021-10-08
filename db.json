@@ -20,12 +20,17 @@
     {
       "id": 1,
       "empresa": "McDonalds",
-      "Cliente_1": "Adoro ir aos finais de semana com a minha familia"
+      "cliente_1": "Adoro ir aos finais de semana com a minha familia"
     },
     {
       "id": 2,
       "empresa": "Cielo",
-      "Cliente_2": "Gosto da Cielo, pois o suporte é fenomenal!"
+      "cliente_2": "Gosto da Cielo, pois o suporte é fenomenal!"
+    },
+    {
+      "id": 3,
+      "empresa": "BRF",
+      "cliente_3": "A BRF me proporciona um almoço incrivel, recheado de gostosuras"
     }
   ],
   "central": {
