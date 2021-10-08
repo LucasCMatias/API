@@ -19,14 +19,14 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
-      "body": "some comment",
+      "bodys": "some comsment",
+      "bsody": "some comsment",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
-      "body": "some comment",
+      "bosdy": "some commsent",
+      "bsodys": "somse commenst",
       "postId": 1
     }
   ],
