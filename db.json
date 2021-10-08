@@ -1,31 +1,42 @@
 {
-  "posts": [
+  "empresas": [
     {
       "id": 1,
-      "title": "Post 1"
+      "nome": "McDonalds",
+      "avaliação": "9.5"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "nome": "Cielo",
+      "avaliação": "8.5"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "nome": "BRF",
+      "avaliação": "7.5"
     }
   ],
-  "comments": [
+  "comentários": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "empresa": "McDonalds",
+      "cliente_1": "Adoro ir aos finais de semana com a minha familia",
+      "empresaId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "empresa": "Cielo",
+      "cliente_2": "Gosto da Cielo, pois o suporte é fenomenal!",
+      "empresaId": 2
+    },
+    {
+      "id": 3,
+      "empresa": "BRF",
+      "cliente_3": "A BRF me proporciona um almoço incrivel, recheado de gostosuras",
+      "empresaId": 3
     }
   ],
-  "Empresa": {
-    "nome": "McDonalds"
+  "central": {
+    "site": "avaliacoes.net"
   }
 }
