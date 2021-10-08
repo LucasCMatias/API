@@ -20,13 +20,11 @@
     {
       "id": 1,
       "bodys": "some comsment",
-      "bsody": "some comsment",
       "postId": 1
     },
     {
       "id": 2,
       "bosdy": "some commsent",
-      "bsodys": "somse commest",
       "postId": 1
     }
   ],
