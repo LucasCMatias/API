@@ -16,24 +16,16 @@
       "avaliação": "7.5"
     }
   ],
-  "comentários": [
+  "comments": [
     {
       "id": 1,
-      "empresa": "McDonalds",
-      "cliente_1": "Adoro ir aos finais de semana com a minha familia",
-      "empresaId": 1
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
-      "empresa": "Cielo",
-      "cliente_2": "Gosto da Cielo, pois o suporte é fenomenal!",
-      "empresaId": 2
-    },
-    {
-      "id": 3,
-      "empresa": "BRF",
-      "cliente_3": "A BRF me proporciona um almoço incrivel, recheado de gostosuras",
-      "empresaId": 3
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "central": {
