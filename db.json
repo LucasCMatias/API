@@ -16,16 +16,16 @@
       "avaliação": "7.5"
     }
   ],
-  "comments": [
+  "comentarios": [
     {
       "id": 1,
-      "bodys": "some comsment",
-      "postId": 1
+      "empresa": "McDonalds",
+      "Cliente_1": "Adoro ir aos finais de semana com a minha familia"
     },
     {
       "id": 2,
-      "bosdy": "some commsent",
-      "postId": 1
+      "empresa": "Cielo",
+      "Cliente_2": "Gosto da Cielo, pois o suporte é fenomenal!"
     }
   ],
   "central": {
